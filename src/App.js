@@ -15,6 +15,7 @@ const App = () => {
                     <Route path="/user/:username" component={User} />
                 </Switch>
             </main>
+            <hr/>
         </div>
     );
 }
